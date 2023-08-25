@@ -1,0 +1,16 @@
+.CourseInput{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+
+    .course-info{
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+}

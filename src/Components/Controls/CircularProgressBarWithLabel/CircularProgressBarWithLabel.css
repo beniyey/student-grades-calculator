@@ -1,0 +1,11 @@
+.CircularProgressBarWithLabel {
+  padding: 2rem;
+  position: relative;
+  display: inline-flex;
+}
+.CircularProgressBarWithLabel .CircularProgressBarWithLabel__label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}/*# sourceMappingURL=CircularProgressBarWithLabel.css.map */
